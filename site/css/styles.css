@@ -1,0 +1,48 @@
+#sub-title {
+    text-align: center;
+}
+
+#simple-text {
+    background-color:cornsilk;
+    margin: 10px;
+    height: 1000px;
+}
+
+#sub-header {
+    font-weight: bold;
+    font-size: 200%;
+    margin-top: 80px;
+}
+
+#nav-brand5 {
+    font-size: 200%;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+}
+
+.navbar-brand5 {
+    text-align: left;
+}
+
+.nav {
+    background-color: aqua;
+}
+
+.navbar {
+    background-color: gray;
+
+}
+
+a {
+    color: black;
+
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
