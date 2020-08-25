@@ -1,34 +1,24 @@
-#sub-title {
-    text-align: center;
-}
-
 #simple-text {
     background-color:cornsilk;
     margin: 10px;
     height: 1000px;
 }
 
-#sub-header {
+.navbar-brand {
     font-weight: bold;
     font-size: 200%;
-    margin-top: 80px;
+}
+
+#sub-header {
+    margin-top: 90px;
+    font-weight: 700;
+    font-size: 100%;
 }
 
 #navbarSupportedContent {
     background-color: rgb(29, 18, 4);
 }
 
-#nav-brand {
-    font-size: 200%;
-    font-weight: bold;
-    color: black;
-    text-align: left;
-}
-
-
-.nav {
-    background-color: aqua;
-}
 
 .navbar {
     background-color: gray;
