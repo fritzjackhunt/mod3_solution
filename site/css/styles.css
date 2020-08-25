@@ -14,16 +14,17 @@
     margin-top: 80px;
 }
 
-#nav-brand5 {
+#navbarSupportedContent {
+    background-color: rgb(29, 18, 4);
+}
+
+#nav-brand {
     font-size: 200%;
     font-weight: bold;
     color: black;
     text-align: left;
 }
 
-.navbar-brand5 {
-    text-align: left;
-}
 
 .nav {
     background-color: aqua;
